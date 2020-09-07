@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/omoruyi-personal-website/static/js/main.f102e665.chunk.js",
+    "main.js.map": "/omoruyi-personal-website/static/js/main.f102e665.chunk.js.map",
+    "runtime-main.js": "/omoruyi-personal-website/static/js/runtime-main.8c2c30c4.js",
+    "runtime-main.js.map": "/omoruyi-personal-website/static/js/runtime-main.8c2c30c4.js.map",
+    "static/js/2.0b4521f6.chunk.js": "/omoruyi-personal-website/static/js/2.0b4521f6.chunk.js",
+    "static/js/2.0b4521f6.chunk.js.map": "/omoruyi-personal-website/static/js/2.0b4521f6.chunk.js.map",
+    "index.html": "/omoruyi-personal-website/index.html",
+    "precache-manifest.a8c3462573386bfad3735de617feca05.js": "/omoruyi-personal-website/precache-manifest.a8c3462573386bfad3735de617feca05.js",
+    "service-worker.js": "/omoruyi-personal-website/service-worker.js",
+    "static/js/2.0b4521f6.chunk.js.LICENSE.txt": "/omoruyi-personal-website/static/js/2.0b4521f6.chunk.js.LICENSE.txt",
+    "static/media/BloombankImg-1.png": "/omoruyi-personal-website/static/media/BloombankImg-1.017e14f2.png",
+    "static/media/BloombankImg-2.png": "/omoruyi-personal-website/static/media/BloombankImg-2.72f6efe0.png",
+    "static/media/BloombankImg-4.png": "/omoruyi-personal-website/static/media/BloombankImg-4.5e902dcf.png",
+    "static/media/mountain.png": "/omoruyi-personal-website/static/media/mountain.fa31dcac.png",
+    "static/media/myAvatar.png": "/omoruyi-personal-website/static/media/myAvatar.ead775fa.png",
+    "static/media/pencil-ruler.png": "/omoruyi-personal-website/static/media/pencil-ruler.41b07de0.png",
+    "static/media/personal-1.png": "/omoruyi-personal-website/static/media/personal-1.83747062.png",
+    "static/media/personal-2.png": "/omoruyi-personal-website/static/media/personal-2.2bbf5560.png",
+    "static/media/personal-3.png": "/omoruyi-personal-website/static/media/personal-3.a9e2af87.png",
+    "static/media/straightTree.png": "/omoruyi-personal-website/static/media/straightTree.b3206b45.png",
+    "static/media/tatafoImg-1.png": "/omoruyi-personal-website/static/media/tatafoImg-1.bc9b4bf9.png",
+    "static/media/tatafoImg-2.png": "/omoruyi-personal-website/static/media/tatafoImg-2.95add20f.png",
+    "static/media/tatafoImg-3.png": "/omoruyi-personal-website/static/media/tatafoImg-3.f3a532a5.png",
+    "static/media/uyi-face.JPG": "/omoruyi-personal-website/static/media/uyi-face.84cc4e99.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c2c30c4.js",
+    "static/js/2.0b4521f6.chunk.js",
+    "static/js/main.f102e665.chunk.js"
+  ]
+}
